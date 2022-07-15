@@ -10,3 +10,8 @@
 6. Configure Woocommerce ➡️ Settings
 7. Manage Inventory & Stocks (18)
 8. Shipping Management (20)
+9. Payment Systems (21):
+
+-   Direct bank transfer (Transfer with bank account) 👍
+-   Check Payments (Not actual)
+-   Cash on Delivery (if someone is basically in the same city that you have added in the general tab, then you can set this payment)
