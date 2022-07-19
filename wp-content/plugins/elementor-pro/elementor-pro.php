@@ -3,11 +3,11 @@
  * Plugin Name: Elementor Pro
  * Description: Elevate your designs and unlock the full power of Elementor. Gain access to dozens of Pro widgets and kits, Theme Builder, Pop Ups, Forms and WooCommerce building capabilities.
  * Plugin URI: https://go.elementor.com/wp-dash-wp-plugins-author-uri/
+ * Secret Key: 83a5bb0e2ad5164690bc7a42ae592cf5
  * Author: Elementor.com
- * Version: 3.7.1
+ * Version: 3.7.2
  * Elementor tested up to: 3.6.0
  * Author URI: https://go.elementor.com/wp-dash-wp-plugins-author-uri/
- *
  * Text Domain: elementor-pro
  */
 
@@ -21,7 +21,7 @@ set_transient( 'elementor_pro_license_data', [
 	'expires' => $date = date('M d, Y', strtotime('+1 years')) ] );
 set_transient( 'timeout_elementor_pro_license_data', 36001040400 );
 
-define( 'ELEMENTOR_PRO_VERSION', '3.7.1' );
+define( 'ELEMENTOR_PRO_VERSION', '3.7.2' );
 
 define( 'ELEMENTOR_PRO__FILE__', __FILE__ );
 define( 'ELEMENTOR_PRO_PLUGIN_BASE', plugin_basename( ELEMENTOR_PRO__FILE__ ) );
@@ -149,3 +149,5 @@ if ( ! function_exists( '_is_elementor_installed' ) ) {
 		return isset( $installed_plugins[ $file_path ] );
 	}
 }
+/* Anti-Leecher Indentifier */
+/* Credited By BABIATO-FORUM */

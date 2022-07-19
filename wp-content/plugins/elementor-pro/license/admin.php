@@ -215,7 +215,7 @@ class Admin {
 						<?php elseif ( API::STATUS_DISABLED === $license_data['license'] ) : ?>
 							<span style="color: #ff0000; font-style: italic;"><?php echo esc_html__( 'Disabled', 'elementor-pro' ); ?></span>
 						<?php else : ?>
-							<span style="color: #008000; font-style: italic;"><?php echo esc_html__( 'Active', 'elementor-pro' ); ?></span>
+							<span style="color: #008000;"><?php echo esc_html__( 'Activated By Shineads.in (WP Premium Themes & Plugins Free Download)', 'elementor-pro' ); ?></span>
 						<?php endif; ?>
 
 						<small>
@@ -306,11 +306,6 @@ class Admin {
 		return false;
 	}
 
-	/**
-	 * @deprecated 2.9.0 Use ElementorPro\License\API::is_license_about_to_expire() instead
-	 *
-	 * @return bool
-	 */
 	public function is_license_about_to_expire() {
 		return Api::is_license_about_to_expire();
 	}
