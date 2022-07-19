@@ -22,4 +22,7 @@
 11. Settings - Email (25)
 12. Settings - Advanced (26)
 
--   How add 'Terms & Conditions' page to checkout.
+-   How add 'Terms & Conditions' page to checkout
+
+13. Coupon Management (27)
+14. Reviews (28)
