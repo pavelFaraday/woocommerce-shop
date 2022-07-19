@@ -20,3 +20,6 @@
 
 10. Settings - Acounts & Privacy Settings (24)
 11. Settings - Email (25)
+12. Settings - Advanced (26)
+
+-   How add 'Terms & Conditions' page to checkout.
