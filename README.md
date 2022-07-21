@@ -59,5 +59,10 @@
     > We can create main categories, also multidimentional child categories 👍
 
 21. Tags (34) 👍
+
     > Tags are almost the same as categories, but there are some diffreneces: Tags doesn't have parent-child relationtips.
     > **We can group products by common purpose or features through Tags. For example: products for men, products for women, Giftsets, Sets, best selling Products.**
+
+22. Attributes (35) 👍
+    > From 'Attributes' we can add & control all attributes we have assigned for **Variable products** in our website.
+    > _Recomended to control Attributes this way_ 👍
