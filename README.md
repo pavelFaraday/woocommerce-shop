@@ -55,4 +55,9 @@
     > If we select 'Virtual', they became intangible & shipping costs is not added.
 
 20. Categories (33)
+
     > We can create main categories, also multidimentional child categories 👍
+
+21. Tags (34) 👍
+    > Tags are almost the same as categories, but there are some diffreneces: Tags doesn't have parent-child relationtips.
+    > **We can group products by common purpose or features through Tags. For example: products for men, products for women, Giftsets, Sets, best selling Products.**
