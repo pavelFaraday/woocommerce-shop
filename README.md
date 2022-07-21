@@ -34,3 +34,8 @@
 
 -   Attributes
 -   Variations
+
+17. Products: Affiliate product (31)
+    > External product from External Website. Customer will be able to view the product details on your website, but when he will click "add to Cart" or "view producz," he will be taken to external website.
+    > It is good for sending traffic from your store to another store (for example: Amazon.com, aliexpress.com)
+    > Also for affiliate marketing with any other company where you will be selling their particular product on your website.
