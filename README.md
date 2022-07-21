@@ -22,7 +22,15 @@
 11. Settings - Email (25)
 12. Settings - Advanced (26)
 
--   How add 'Terms & Conditions' page to checkout
+    > How add 'Terms & Conditions' page to checkout
 
 13. Coupon Management (27)
 14. Reviews (28)
+15. Products: simple product (29)
+16. Products: variable product (30)
+    **Products that contains variations.**
+    > smartphones for which we should choose colores, storages..
+    > clothes: colors, sizes
+
+-   Attributes
+-   Variations
