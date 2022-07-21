@@ -50,5 +50,9 @@
 
 19. Products: Downloadable product (32) 👍
     Settings - Downloadle products (32)
+
     > **Online Products (video, audio, pdf)**
     > If we select 'Virtual', they became intangible & shipping costs is not added.
+
+20. Categories (33)
+    > We can create main categories, also multidimentional child categories 👍
