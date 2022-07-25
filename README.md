@@ -69,7 +69,11 @@
     > _Recomended to control Attributes this way_ 👍
 
 23. Upsells & Cros-sells (37) 👍
+
     > -   **Upsells** - those similar products that are actually more inprice.
     >     Products for **"You may also like.."** Block.
     > -   **Cros-sells** - those particular products that are additional accessories for current product (for example, chargers & powerbanks for mobile phones).
     >     Products for **You may be interested in…"** Block. It is shown in **Cart!**
+
+24. Customise Footer (44) 👍
+    > How add 'Products Categories List' Widget in footer
